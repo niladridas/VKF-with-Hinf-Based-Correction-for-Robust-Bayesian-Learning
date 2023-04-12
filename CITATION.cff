@@ -1,0 +1,26 @@
+authors:
+  - family-names: Das
+    given-names: Niladri
+  - family-names: Catanach
+    given-names: Tommie A. 
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+title: My Research Software
+preferred-citation:
+  title: "Variational Kalman Filtering with Hinf-Based Correction for Robust Bayesian Learning in High Dimensions "
+  type: conference-paper
+  authors:
+  - family-names: "Das"
+    given-names: "Niladri"
+  - family-names: "Duersh"
+    given-names: "Jed A"
+  - family-names: "Catanach"
+    given-names: "Tommie A."
+  collection-title: "2022 IEEE 61st Conference on Decision and Control (CDC)" # booktitle
+  collection-type: "proceedings"
+  conference:
+    name: "CDC 2022" # series
+  doi: "10.1109/CDC51059.2022.9992586"
+  start: 7522 # First page number
+  end: 7528 # Last page number
+  year: 2022
